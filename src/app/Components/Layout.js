@@ -9,7 +9,7 @@ const Sidebar = ({ children }) =>{
                 {
                     //Logo
                 }
-                <p className='text-3xl text-orange-500'><span className='text-black'>Yamari</span> Solutions</p>
+                <p className='text-2xl md:text-3xl text-orange-500'><span className='text-black'>Yamari</span> Solutions</p>
             </div>
             <div>
                 {

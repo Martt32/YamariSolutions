@@ -5,7 +5,7 @@ export default function Sell() {
       <div className="">
           <div  className="hero flex flex-col bg-orange-500 p-12 justify-center items-center">
         <input style={{ width:'50vw', height:'6vh' }} className="p-3 font-bold text-orange-600 rounded-lg" placeholder="Search Items"/>
-        <div className="flex space-x-6 font-bold text-white p-6 md:text-2xl ">
+        <div className="flex space-x-6 font-bold text-white text-sm p-6 md:text-2xl ">
         <Link href='/'>
           <p className="text-white cursor-pointer">Buy</p>
         </Link>
